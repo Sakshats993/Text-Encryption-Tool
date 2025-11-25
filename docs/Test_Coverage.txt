@@ -1,0 +1,5 @@
+src/crypto_core.py     98% ████████████████████░
+src/hybrid_crypto.py   96% ████████████████████░
+src/key_manager.py     94% ███████████████████░░
+src/cli.py             88% ██████████████████░░░
+Overall Coverage       94% ███████████████████░░
