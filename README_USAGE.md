@@ -4,12 +4,12 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![Cryptography](https://img.shields.io/badge/cryptography-41.0%2B-green)](https://cryptography.io/)
-[![License](https://img.shields.io/badge/license-MIT-purple.svg)](LICENSE)
-[![Security](https://img.shields.io/badge/security-A%2B-brightgreen)](SECURITY.md)
+[![License](https://img.shields.io/badge/license-MIT-purple.svg)](docs/License)
+[![Security](https://img.shields.io/badge/security-A%2B-brightgreen)](docs/Security.md)
 [![Tests](https://img.shields.io/badge/tests-passing-success)](tests/)
 [![Code Style](https://img.shields.io/badge/code%20style-PEP8-orange)](https://www.python.org/dev/peps/pep-0008/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/text-crypto-tool/graphs/commit-activity)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/Contributing.md)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Sakshats993)
 
 ### 🎯 Enterprise-Grade Text Encryption Suite with Military-Grade Algorithms
 
@@ -62,7 +62,7 @@ In an era where data breaches cost companies millions and privacy is paramount, 
 
 ```python
 ✅ NIST-Compliant Algorithms      ✅ Constant-Time Operations
-✅ Side-Channel Attack Protection  ✅ Memory-Safe Key Handling
+✅ Side-Channel Attack Protection ✅ Memory-Safe Key Handling
 ✅ OAEP Padding (RSA)             ✅ GCM Authentication (AES)
 ✅ Unique Nonce Generation        ✅ Secure Key Derivation
 ✅ Anti-Tampering Mechanisms      ✅ Timing Attack Mitigation
