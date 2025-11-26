@@ -29,7 +29,7 @@ Be respectful, inclusive, and professional.
 ## Development Setup
 
 ```bash
-git clone https://github.com/yourusername/text-crypto-tool
+git clone https://github.com/Sakshats993/Text-Encryption-Tool
 cd text-crypto-tool
 pip install -r requirements-dev.txt
 pre-commit install
@@ -44,4 +44,5 @@ Areas for Contribution
 📱 Mobile Companion App
 🔐 Hardware Security Module (HSM) Integration
 🧮 Post-Quantum Algorithms
+
 📊 Advanced Analytics Dashboard
