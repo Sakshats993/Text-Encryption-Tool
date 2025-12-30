@@ -1,7 +1,6 @@
 <div align="center">
 
 # 🔐 Text Crypto Tool
-
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![Cryptography](https://img.shields.io/badge/cryptography-41.0%2B-green)](https://cryptography.io/)
 [![License](https://img.shields.io/badge/license-MIT-purple.svg)](docs/License)
@@ -11,11 +10,14 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/Contributing.md)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Sakshats993)
 
+
 ### 🎯 Enterprise-Grade Text Encryption Suite with Military-Grade Algorithms
 
 **A comprehensive cryptographic toolkit implementing industry-standard encryption algorithms with a focus on security, education, and real-world applicability.**
 
 [Features](#-features) • [Quick Start](#-quick-start) • [Algorithms](#-algorithms) • [Security](#-security) • [Documentation](#-documentation) • [Contributing](#-contributing)
+
+![demo gif](https://github.com/user-attachments/assets/f660b174-f276-44ee-b242-43dfe69f0fba)
 
 <img src="assets/demo.gif" alt="Demo" width="700"/>
 
